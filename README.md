@@ -1,3 +1,4 @@
 # app-dev
 My first repository
-Favorite Series is **Queen of Tears**
+
+My Favorite Series is **Queen of Tears**
